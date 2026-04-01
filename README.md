@@ -1,7 +1,7 @@
 <!--
  * @Author: CL
  * @Date: 2026-03-28 21:52:38
- * @LastEditTime: 2026-03-31 15:40:52
+ * @LastEditTime: 2026-03-31 22:21:43
  * @Description: 电影管理平台 服务器端
 -->
 
@@ -27,3 +27,7 @@ yarn add class-validator
 # 把平面对象转成类
 
 yarn add class-transformer
+
+
+运行项目
+npm run dev
